@@ -1,0 +1,23 @@
+{
+  "name": "ShiftApp",
+  "url": "https://shiftapp.com/black-friday",
+  "description": "Plan employee shifts, manage time off and share schedules with staff",
+  "category": "business",
+  "platforms": [
+    "web",
+    "ios",
+    "ipad",
+    "android"
+  ],
+  "deal": "88% off the first 8 months on new Essential monthly orders, then regular price",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "price": {
+    "regular": 24,
+    "sale": 2.88,
+    "currency": "USD"
+  },
+  "discount": 88,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-12"
+}
